@@ -4105,15 +4105,6 @@ html.fp-enabled,
     bottom: 0;
     transform: rotate(-90deg); }
 
-/*-------- 1.3 Carousel --------*/
-/**
- * Owl Carousel v2.2.1
- * Copyright 2013-2017 David Deutsch
- * Licensed under  ()
- */
-/*
- *  Owl Carousel - Core
- */
 .owl-carousel {
   display: none;
   width: 100%;
@@ -4277,14 +4268,6 @@ html.fp-enabled,
   height: 100%;
   width: 100%; }
 
-/**
- * Owl Carousel v2.2.1
- * Copyright 2013-2017 David Deutsch
- * Licensed under  ()
- */
-/*
- * 	Default theme - Owl Carousel CSS File
- */
 .owl-theme .owl-nav {
   margin-top: 10px;
   text-align: center;
