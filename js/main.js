@@ -34,7 +34,7 @@
 			enhance: true
 		},
 		navbar: {
-			title: 'MENU'
+			title: 'Sanly bilim'
 		},
 		navbars: [{position:'bottom',content: ['<a href="#0">Sanly bilim</a>']}]}, 
 		{
