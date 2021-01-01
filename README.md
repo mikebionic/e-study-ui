@@ -9,3 +9,6 @@ Template consists of several UI components such as:
 + Course and library categories
 + Book and Video course view
 + Hometasks
+
+**Home Page** screenshot
+![HomePage](img/estudy.png)
